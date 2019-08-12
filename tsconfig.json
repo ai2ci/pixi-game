@@ -1,0 +1,32 @@
+{
+	"compilerOptions": {
+		"outDir": "./dist/",
+		"noImplicitAny": true,
+		"sourceMap": true,
+		"jsx": "react",
+		"module": "es6",
+		"target": "es5",
+		"allowJs": true,
+		"typeRoots": ["./node_modules/phaser/types"],
+		"types": ["Phaser"],
+		"allowSyntheticDefaultImports": true,
+		"removeComments": true,
+		"noEmit": true,
+		"pretty": true,
+		"skipLibCheck": true,
+		"strict": true,
+		"moduleResolution": "node",
+		"esModuleInterop": true,
+		"strictFunctionTypes": true
+	},
+	"include": [
+		"./src/**/*",
+		"src/scenes/.moon.ts",
+		"src/scenes/.field.ts",
+		"src/scenes/.bald-moon.ts",
+		"src/.app.ts",
+		"src/.app-pixi.js",
+		"src/.app-phaser.ts"
+	],
+	"exclude": ["node_modules"]
+}

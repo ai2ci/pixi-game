@@ -1,0 +1,188 @@
+{
+	"frames": {
+		"moonSequence00.png": {
+			"frame": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence01.png": {
+			"frame": { "x": 180, "y": 0, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence02.png": {
+			"frame": { "x": 360, "y": 0, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence03.png": {
+			"frame": { "x": 540, "y": 0, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence04.png": {
+			"frame": { "x": 720, "y": 0, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence05.png": {
+			"frame": { "x": 0, "y": 180, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence06.png": {
+			"frame": { "x": 180, "y": 180, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence07.png": {
+			"frame": { "x": 360, "y": 180, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence08.png": {
+			"frame": { "x": 540, "y": 180, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence09.png": {
+			"frame": { "x": 720, "y": 180, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence10.png": {
+			"frame": { "x": 0, "y": 360, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence11.png": {
+			"frame": { "x": 180, "y": 360, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence12.png": {
+			"frame": { "x": 360, "y": 360, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence13.png": {
+			"frame": { "x": 540, "y": 360, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence14.png": {
+			"frame": { "x": 720, "y": 360, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence15.png": {
+			"frame": { "x": 0, "y": 540, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence16.png": {
+			"frame": { "x": 180, "y": 540, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence17.png": {
+			"frame": { "x": 360, "y": 540, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence18.png": {
+			"frame": { "x": 540, "y": 540, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence19.png": {
+			"frame": { "x": 720, "y": 540, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence20.png": {
+			"frame": { "x": 0, "y": 720, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence21.png": {
+			"frame": { "x": 180, "y": 720, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence22.png": {
+			"frame": { "x": 360, "y": 720, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence23.png": {
+			"frame": { "x": 540, "y": 720, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		},
+		"moonSequence24.png": {
+			"frame": { "x": 720, "y": 720, "w": 180, "h": 180 },
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": { "x": 0, "y": 0, "w": 180, "h": 180 },
+			"sourceSize": { "w": 180, "h": 180 }
+		}
+	},
+	"meta": {
+		"app": "http://www.texturepacker.com",
+		"version": "1.0",
+		"image": "moon-phases.png",
+		"format": "RGBA8888",
+		"size": { "w": 900, "h": 900 },
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:2f213a6b451f9f5719773418dfe80ae8$"
+	}
+}
