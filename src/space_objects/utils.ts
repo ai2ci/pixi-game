@@ -42,8 +42,12 @@ export function getBookShapePoints(
 	return points;
 }
 
-export function isBetween(x: number, min: number, max: number): boolean {
-	return x >= min && x <= max;
+export function isBetween(
+	x: number | undefined,
+	min: number,
+	max: number,
+): boolean {
+	return (x >= min && x <= max) || (x <= min && x >= max);
 }
 
 export function isSimilar(numA: number, numB: number, deviation: number) {

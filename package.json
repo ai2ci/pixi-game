@@ -18,12 +18,14 @@
 		"@pixi/filter-pixelate": "^3.0.3",
 		"@types/lodash": "^4.14.136",
 		"babel-loader": "^8.0.6",
+		"line-intersect": "^2.2.1",
 		"lodash.throttle": "^4.1.1",
 		"lune": "^0.4.0",
 		"phaser": "^3.18.1",
 		"pixi.js": "^5.1.0",
 		"react": "^16.8.6",
-		"react-dom": "^16.8.6"
+		"react-dom": "^16.8.6",
+		"transducers-js": "^0.4.174"
 	},
 	"devDependencies": {
 		"@babel/preset-react": "^7.0.0",
@@ -31,6 +33,9 @@
 		"@types/pixi.js": "^4.8.8",
 		"@types/react": "^16.8.24",
 		"@types/react-dom": "^16.8.5",
+		"@types/transducers-js": "^0.4.4",
+		"@typescript-eslint/eslint-plugin": "^2.0.0",
+		"@typescript-eslint/parser": "^2.0.0",
 		"copy-webpack-plugin": "^5.0.3",
 		"eslint": "^6.1.0",
 		"eslint-plugin-react": "^7.14.3",

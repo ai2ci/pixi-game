@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
-import { useTick } from '@inlet/react-pixi';
+// import { useTick } from '@inlet/react-pixi';
 // import { Ticker } from 'pixi.js';
 import Star from './star/Star';
 import { getBookShapePoints, mapMovingStar, reduceStars } from './utils';
+import { useTick } from '../utils';
 import { Size, Point } from '../types';
 
 type Props = {
@@ -18,7 +19,7 @@ type Props = {
 function NightSky({
 	delay = 28000,
 	starSize = 12,
-	density = 1,
+	density = 5,
 	screenSize,
 	bookSize,
 	backPoint,
@@ -37,20 +38,24 @@ function NightSky({
 		lastTime: startTime,
 	});
 
-	useTick((delta = 0) => {
-		const currentTime = new Date().getTime();
-		if (delay > currentTime - state.startTime)
-			update({
-				...state,
-				stars: reduceStars(
-					state.stars,
-					state.startTime,
-					state.lastTime,
-					currentTime,
-				),
-				lastTime: currentTime,
-			});
-	});
+	useTick(
+		() => {
+			const currentTime = new Date().getTime();
+			if (delay > currentTime - state.startTime)
+				update({
+					...state,
+					stars: reduceStars(
+						state.stars,
+						state.startTime,
+						state.lastTime,
+						currentTime,
+					),
+					lastTime: currentTime,
+				});
+		},
+		true,
+		100,
+	);
 
 	return (
 		<React.Fragment>
